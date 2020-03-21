@@ -1,2 +1,2 @@
-# cv19MakersFrontEnd
-Front of the platform developed by the community of the CoronaVirus19Makers
+# InfectionDetectorFrontEnd
+Simple WebApp to identify the sytoms of COVID-19 and give recommendations on how to act.
